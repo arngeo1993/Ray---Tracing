@@ -1,0 +1,144 @@
+newmtl BootsSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Boots_Diffuse_Boots_Diffuse.bmp
+bump Boots_Normal_Boots_Normal.bmp -bm 1
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Boots_Specular_Boots_Specular.bmp
+Ns 23.00
+newmtl CC_Base_BodySG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Skin_Body_Diffuse_Skin_Body_Diffuse.bmp
+bump Skin_Body_Normal_Skin_Body_Normal.bmp -bm 1
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Skin_Body_Specular_Skin_Body_Specular.bmp
+Ns 18.00
+newmtl CC_Base_BodySG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Skin_Head_Diffuse_Skin_Head_Diffuse.bmp
+bump Skin_Head_Normal_Skin_Head_Normal.bmp -bm 1
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Skin_Head_Specular_Skin_Head_Specular.bmp
+Ns 18.00
+newmtl CC_Base_BodySG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Eyelash_Diffuse_Eyelash_Diffuse.bmp
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Eyelash_Specular_Eyelash_Specular.bmp
+Ns 18.00
+newmtl CC_Base_BodySG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fingernail_Diffuse_Fingernail_Diffuse.bmp
+bump Fingernail_Normal_Fingernail_Normal.bmp -bm 1
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fingernail_Specular_Fingernail_Specular.bmp
+Ns 28.00
+newmtl CC_Base_EyeSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Eye_Diffuse_Eye_Diffuse.bmp
+bump Eye_Normal_Eye_Normal.bmp -bm 1
+Ni 1.00
+Ks 1.80 1.80 1.80
+Ns 38.00
+newmtl CC_Base_EyeSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.80 0.80 0.80
+map_Kd Cornea_Diffuse_Cornea_Diffuse.bmp
+bump Cornea_Normal_Cornea_Normal.bmp -bm 1
+Ni 1.00
+Ks 5.39 5.39 5.39
+Ns 61.00
+newmtl CC_Base_TeethSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Upper_Teeth_Diffuse_Upper_Teeth_Diffuse.bmp
+Ni 1.00
+Ks 0.45 0.45 0.45
+Ns 33.00
+newmtl CC_Base_TeethSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Lower_Teeth_Diffuse_Lower_Teeth_Diffuse.bmp
+Ni 1.00
+Ks 0.45 0.45 0.45
+Ns 33.00
+newmtl CC_Base_TongueSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Tongue_Diffuse_Tongue_Diffuse.bmp
+bump Tongue_Normal_Tongue_Normal.bmp -bm 0.3
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Tongue_Specular_Tongue_Specular.bmp
+Ns 28.00
+newmtl JeansSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Jeans_Diffuse_Jeans_Diffuse.bmp
+bump Jeans_Normal_Jeans_Normal.bmp -bm 1
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Jeans_Specular_Jeans_Specular.bmp
+Ns 8.00
+newmtl ShirtSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Shirt_Diffuse_Shirt_Diffuse.bmp
+bump Shirt_Normal_Shirt_Normal.bmp -bm 1
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Shirt_Specular_Shirt_Specular.bmp
+Ns 8.00
+newmtl cazzy_hair001_0SG
+illum 4
+Kd 0.68 0.73 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 7.00
+newmtl cazzy_hair001_0SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Material__25_Diffuse_Material__25_Diffuse.bmp
+bump Material__25_Normal_Material__25_Normal.bmp -bm 1
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Material__25_Specular_Material__25_Specular.bmp
+Ns 0.00
